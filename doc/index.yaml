@@ -1,0 +1,56 @@
+apiVersion: v1
+entries:
+  k8s-informer-chart:
+  - apiVersion: v2
+    appVersion: 2.2.0
+    created: "2024-06-26T16:15:12.96941+03:00"
+    description: A Helm for ServiceNow K8s Informer
+    digest: 605ac86356ffb529686920608ec0c0b3f1228dc217a5c9c106df350beb1a371e
+    maintainers:
+    - email: support@servicenow.com
+      name: ServiceNow
+    name: k8s-informer-chart
+    type: application
+    urls:
+    -  https://install.service-now.com/glide/distribution/builds/package/informer/2.2.0/informer-helm-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v2
+    appVersion: 2.1.1
+    created: "2024-05-02T18:13:01.84282+03:00"
+    description: A Helm for ServiceNow K8s Informer
+    digest: 7ee39eddf025eecda7274200f685fa88112a6d1a73dbc0c42a9e4e229ee1541f
+    maintainers:
+    - email: support@servicenow.com
+      name: ServiceNow
+    name: k8s-informer-chart
+    type: application
+    urls:
+    - https://install.service-now.com/glide/distribution/builds/package/informer/2.1.1/informer-helm-2.1.1.tgz
+    version: 2.1.1
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2024-01-02T15:24:44.262444+02:00"
+    description: A Helm for ServiceNow K8s Informer
+    digest: 63bc111e5a435ac32fae5dea9952f094936b9f064734fcb1e83087e0ba811674
+    maintainers:
+    - email: support@servicenow.com
+      name: ServiceNow
+    name: k8s-informer-chart
+    type: application
+    urls:
+    - https://install.service-now.com/glide/distribution/builds/package/informer/2.0.0/informer-helm-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: 1.0.2
+    created: "2023-12-09T10:23:16.897767+02:00"
+    description: A Helm for ServiceNow K8s Informer
+    digest: 93725c28be70ba9be4ed1e4e803f9792e9dd68f218d19601594fca3db891d642
+    maintainers:
+    - email: support@servicenow.com
+      name: ServiceNow
+    name: k8s-informer-chart
+    type: application
+    urls:
+    - https://install.service-now.com/glide/distribution/builds/package/informer/1.0.2/informer-helm-1.0.2.tgz
+    version: 1.0.2
+generated: "2024-06-26T16:15:12.964417+03:00"
